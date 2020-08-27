@@ -10,4 +10,6 @@ To play, simply run the codenames.py file.
 ```bash
 python codenames.py
 ```
-Then, input the same random number on all computers being used. When prompted, indicate if you are the spymaster. This will enable/disable the color-coding of the agent cards. You can later toggle this using the "Reveal Board" button. Lastly, you can reset the board while maintaining seed coordination with the "New Game" button.
+Then, input the same random number on all computers being used. When prompted, indicate if you are the spymaster. This will enable/disable the color-coding of the agent cards.
+
+You can show the allegiances of all agents with the "Reveal Board" button. To play again, you can reset the board while maintaining seed coordination with the "New Game" button.
