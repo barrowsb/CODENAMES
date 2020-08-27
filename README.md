@@ -7,7 +7,7 @@ This was completed as a personal project when spring break was extended for the 
 
 ## Usage
 To play, simply run the codenames.py file.
-'''bash
+```bash
 python codenames.py
-'''
+```
 Then, input the same random number on all computers being used. When prompted, indicate if you are the spymaster. This will enable/disable the color-coding of the agent cards.
